@@ -1,4 +1,4 @@
-<h1 align="center">Heyyy 👋,This is Md. Yeamin Islam</h1>
+<h1 align="center">Assalamu Alaikum 👋,This is Md. Yeamin Islam</h1>
 <h3 align="center">A passionate fun programmer of Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyeaminislam" alt="mdyeaminislam" /></a> </p>
 
-- 🔭 I’m currently working on **Student resourcebox. website**
+- 🔭 I’m currently working on **NAfs reload, Mobile Application**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **MERN FUll STACK**
 
 - 👨‍💻 All of my projects are available at [yeamin.me](yeamin.me)
-
-- 💬 Ask me about **Python Projects**
 
 - 📫 How to reach me **yeamin.cse@gmail.com**
 
