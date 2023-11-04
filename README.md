@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyeaminislam" alt="mdyeaminislam" /></a> </p>
 
-- 🔭 I’m currently working on **NAfs reload, Mobile Application**
+- 🔭 I’m currently working on **EduQuest -Web based personal Learning Journey**
 
 - 🌱 I’m currently learning **MERN FUll STACK**
 
