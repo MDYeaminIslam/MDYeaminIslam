@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **EduQuest -Web based personal Learning Journey**
 
-- 🌱 I’m currently learning **MERN FUll STACK**
+- 🌱 I’m currently learning **MERN FULL STACK**
 
-- 👨‍💻 All of my projects are available at [yeamin.me](yeamin.me)
+- 👨‍💻 All of my projects are available at https://mdyeaminislam.github.io/Personal-portfolio-website/
 
 - 📫 How to reach me **yeamin.cse@gmail.com**
-
-- 📄 Know about my experiences [yeamin.me](yeamin.me)
 
 - ⚡ Fun fact **Common sense can save you from embarrassing moment.**
 
